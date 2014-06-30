@@ -13,3 +13,4 @@ s.prompt = 'Fake Pro'
 mc.send('Second command')
 mc.serial = t
 mc.send('Third command')
+
